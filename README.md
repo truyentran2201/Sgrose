@@ -1,2 +1,0 @@
-# Sgrose
-sgrose
